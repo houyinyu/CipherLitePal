@@ -1,0 +1,2 @@
+# CipherLitePal
+SQLCipher结合LitePal使数据库加密
